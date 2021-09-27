@@ -1,4 +1,3 @@
-# Hello and welcome to my page! 🗿
+<h1 align=center>Hello and welcome to my page! 🗿</h1>
 
-🌍 I am a student from Norway studying IT.💻 <br>
-📶 I am currently focusing on web development.
+![Image of Yaktocat](https://octodex.github.com/images/baracktocat.jpg)
