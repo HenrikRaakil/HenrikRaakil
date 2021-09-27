@@ -1,3 +1,5 @@
 <h1 align=center>Hello and welcome to my page! 🗿</h1>
 
-![Very funny meme, too bad you can't see it](https://i.redd.it/qa6hsywvsy921.gif)
+<p align="center">
+![Very funny meme, too bad you can't see it](https://debel.github.io/juggling/images/js-fail.gif)
+</p>
