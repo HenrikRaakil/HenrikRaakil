@@ -5,8 +5,7 @@
     My interest lies in Virtual Reality / Augmented Reality, Software Development and distributed ledger technology.
   </p>
 	<h2>Links</h2>
-	<a href="https://twitter.com/_Inchido">
-		<img border=30px alt="Twitter" width="30px" margin="1000px"
+	<a href="https://twitter.com/_Inchido"><img border=30px alt="Twitter" width="30px" margin="1000px"
 		src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.reddit.com/user/Inchido">
