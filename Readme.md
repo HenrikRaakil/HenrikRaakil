@@ -19,6 +19,10 @@
 	<a href="https://steamcommunity.com/profiles/76561198135935374/">
 		<img alt="Steam" width="30px"
 		src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg"
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://discordapp.com/users/167610187119722496">
+		<img alt="Steam" width="30px"
+		src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg"
 	</a>
 </div>
 
