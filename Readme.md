@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my page🗿</h1>
 <div align="center">
   <p>
-    Hello I am Henrik, known on the web as 'Inchido'. Currently a First year IT student at <a href="https://www.uia.no/">UiA </a> and aspiring software developer. 
+    Hello I am Henrik, known on the web as 'Inchido'. Currently a First year IT student at <a href="https://www.uia.no/en">UiA </a> and aspiring software developer. 
     My interest lies in Virtual Reality / Augmented Reality, Software Development and distributed ledger technology.
   </p>
 	<h2>Links</h2>
