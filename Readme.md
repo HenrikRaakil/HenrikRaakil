@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     Hello I am Henrik, known on the web as 'Inchido'. Currently a First year IT student at <a href="https://www.uia.no/en">UiA </a> and aspiring software developer. 
-    My interest lies in Virtual Reality / Augmented Reality, Software Development and distributed ledger technology.
+    My interest lies in Virtual Reality / Augmented Reality, Software Development, distributed ledger technology and everything Open-Source
   </p>
 	<h2>Links</h2>
 	<a href="https://twitter.com/_Inchido"><img border=30px alt="Twitter" width="30px" margin="1000px"
