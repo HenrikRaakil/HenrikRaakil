@@ -25,5 +25,12 @@
 		src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg"
 	</a>
 </div>
+<div align="center">
+<h2>Languages<h2/>		
+		
+[![](https://img.shields.io/badge/Golang-00599C.svg?style=flat&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/Java-b07219.svg?style=flat&logo=java)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat&logo=JavaScript)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/Markdown-40d47e.svg?style=flat&logo=Markdown)](https://www.markdownguide.org/)
 
 <!-- You found the secret message! Have a cookie🍪 -->
