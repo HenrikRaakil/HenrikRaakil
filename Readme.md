@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to my page🗿</h1>
 <div align="center">
   <p>
-   Hello I am Henrik, known on the web as 'Inchido'. I am a second-year studying information technology at <a href="https://www.uia.no/en">UiA </a> and a aspiring software developer. 
+   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello I am Henrik.
+    I am a second-year studying information technology at <a href="https://www.uia.no/en">UiA </a> and an aspiring software developer. 
     My interest lies in Virtual / Augmented Reality, Software Development, distributed ledger technology and everything Open-Source
   </p>
 	<h2>Socials</h2>
