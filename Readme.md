@@ -1,9 +1,8 @@
 <div align="center"><h1>Welcome to my page🗿</h1>
-<p>
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello I am Henrik. I am a second-year studying information 	technology at <a href="https://www.uia.no/en">UiA </a> and an aspiring software developer. My interest lies in Virtual / Augmented Reality, Software Development, 		distributed ledger technology and everything Open-Source
-</p>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello I am Henrik. I am a second-year studying information technology at <a href="https://www.uia.no/en">UiA </a> and an aspiring software developer. My interest lies in Virtual / Augmented Reality, Software Development, distributed ledger technology and everything Open-Source
+	
 <h2>Contact</h2>
-	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>&nbsp;&nbsp;	
 	<a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black"</a>&nbsp;&nbsp;
 	<a href="mailto:henrik.rakil@online.no"><img src="https://img.shields.io/badge/Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"</a>
 	
