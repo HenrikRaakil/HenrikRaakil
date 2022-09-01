@@ -33,8 +33,6 @@
 	<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05033?&style=for-the-badge&logo=git&logoColor=white"></a>
 	<a href="https://mariadb.com/kb/en/documentation/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 	<a href="https://www.sublimetext.com/docs/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-	<a href="https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html"><img src="https://img.shields.io/badge/WebStorm-cff20a?style=for-the-badge&logo=WebStorm&logoColor=black"></a>
-	<a href="https://www.raspberrypi.com/documentation/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
 	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-0e606b?style=for-the-badge&logo=powershell&logoColor=white"></a>
 	
 <!-- You found the secret message! Have a cookie🍪 -->
