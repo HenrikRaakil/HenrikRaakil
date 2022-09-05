@@ -36,5 +36,6 @@
 	<a href="https://mariadb.com/kb/en/documentation/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 	<a href="https://www.sublimetext.com/docs/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-0e606b?style=for-the-badge&logo=powershell&logoColor=white"></a>
+	<a href="swagger.io"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"></a>
 	
 <!-- You found the secret message! Have a cookie🍪 -->
