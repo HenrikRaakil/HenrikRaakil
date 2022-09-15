@@ -23,9 +23,7 @@
 	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://img.shields.io/badge/Blazor-39477F?style=for-the-badge&logo=Blazor&logoColor=white"></a>
 	
 	
-<h2>OS and tools<h2/>
-	<a href="https://docs.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a href="https://docs.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<h2>Tools<h2/>
   <a href="https://www.jetbrains.com/help/idea/getting-started.html"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 	<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 	<a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
