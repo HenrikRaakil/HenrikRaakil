@@ -7,7 +7,7 @@ https://github.com/Gruppe3/BlazorTipz
 <h2>Contact</h2>
 	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 	<a href="https://www.academia.edu/"><img src="https://img.shields.io/badge/-Academia-fff?style=for-the-badge&logo=academia&logoColor=black"></a>&nbsp;
-	<a href="mailto:henrik.rakil@online.no"><img src="https://img.shields.io/badge/-Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="mailto:henrik.rakil@outlook.com"><img src="https://img.shields.io/badge/-Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	
 <h2>Languages, frameworks and libraries<h2/>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types"><img src="https://img.shields.io/badge/C%23-7D4698?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
