@@ -1,5 +1,5 @@
 <div align="center"><h1>Welcome to my page🗿</h1>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello I am Henrik. I am a second-year studying information technology at <a href="https://www.uia.no/en">UiA </a> and an aspiring software developer. My interest lies in Virtual / Augmented Reality, Software Development, distributed ledger technology and everything Open-Source
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello I am Henrik. I am a third-year studying information technology at <a href="https://www.uia.no/en">UiA </a> and an aspiring software developer. My interest lies in Virtual / Augmented Reality, Software Development, distributed ledger technology and everything Open-Source
 
 Current Project:
 https://github.com/Gruppe3/BlazorTipz
