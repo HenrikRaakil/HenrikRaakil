@@ -24,9 +24,10 @@
 	
 	
 <h2>Tools<h2/>
-	<a href="https://qgis.org/en/site/"><img src="https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
+	<a href="https://qgis.org/en/site/"><img src="https://img.shields.io/badge/qgis-3.32_lima-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
 	<a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 	<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+	<a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
 	<a href="https://www.jetbrains.com/help/idea/getting-started.html"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 	<a href="https://www.vim.org/docs.php"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
 	<a href="https://www.wireshark.org/docs/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white"></a>
