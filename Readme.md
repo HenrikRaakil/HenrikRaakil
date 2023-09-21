@@ -7,8 +7,8 @@
 	
 <h2>Languages, frameworks and libraries<h2/>
 	<a href= https://www.python.org/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types"><img src="https://img.shields.io/badge/C%23-7D4698?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-	<a href="https://docs.oracle.com/en/java/javase/17/docs/api/index.html"><img src="https://img.shields.io/badge/-Java-F05032?&style=for-the-badge&logo=oracle&logoColor=white"></a>
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://img.shields.io/badge/C%23-7D4698?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+	<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-Java-F05032?&style=for-the-badge&logo=oracle&logoColor=white"></a>
 	<a href="https://go.dev/doc/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
   	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"></a>
