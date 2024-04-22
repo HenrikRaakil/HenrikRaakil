@@ -38,9 +38,9 @@
 	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-0e606b?style=for-the-badge&logo=powershell&logoColor=white"></a>
 	<a href="swagger.io"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"></a>
 
- <h2>Profile views:</h2>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sebmid/count.svg?"  />
-</div>
+<h2>Page visits<div align="center">
+	<p></p>
+ <img src="https://profile-counter.glitch.me/HenrikRaakil/count.svg?"  />
+</div></h2>
 	
 <!-- You found the secret message! Have a cookie🍪 -->
