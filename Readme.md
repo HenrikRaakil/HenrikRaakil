@@ -1,5 +1,5 @@
 <div align="center"><h1>Welcome to my page🗿</h1>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello I am Henrik. I am a third-year student studying information technology at <a href="https://www.uia.no/en">UiA </a> where I am currently working on my bachelor thesis. My interest lies in Virtual / Augmented Reality, Artifical Intelligence, distributed ledger technology and everything Open-Source
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi and welcome to my page! My name is Henrik and I recently graduated from <a href="https://www.uia.no/en">the university of Agder </a> with a bachelor's degree in information systems. My bachelor thesis was written for <a href="https://atlas.co/"> Atlas </a>. I have lot of experience with technology and work methodology from both my time as a student as well as my time being an apprentice for an IT-firm. My interest lies in Virtual / Augmented Reality, Artifical Intelligence, distributed ledger technology and everything Open-Source
 	
 <h2>Contact</h2>
 	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
