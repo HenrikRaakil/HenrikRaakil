@@ -1,6 +1,8 @@
 <div align="center"><h1>Welcome to my page🗿</h1>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi and welcome to my page! My name is Henrik and I recently graduated from <a href="https://www.uia.no/en">the university of Agder </a> with a bachelor's degree in information systems. My bachelor thesis was written for <a href="https://atlas.co/"> Atlas </a>. Currently I am working full-time for a company in the energy industry. I have lot of experience with technology and work methodology from both my time as a student as well as my time being an apprentice for an IT-firm. My interest lies in Virtual / Augmented Reality, Artifical Intelligence, distributed ledger technology and everything Open-Source
-	
+
+<h2>Work Account</h2>
+	<a href="https://github.com/LarsHenrikRaakil"><img src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
 <h2>Contact</h2>
 	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 	<a href="mailto:henrik.raakil@outlook.com"><img src="https://img.shields.io/badge/-Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"></a>
