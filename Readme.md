@@ -1,11 +1,10 @@
-<div align="center"><h1>Welcome to my page🗿</h1>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hi and welcome to my page! My name is Henrik and I recently graduated from <a href="https://www.uia.no/en">the university of Agder </a> with a bachelor's degree in information systems. My bachelor thesis was written for <a href="https://atlas.co/"> Atlas </a>. Currently I am working full-time for a company in the energy industry. I have lot of experience with technology and work methodology from both my time as a student as well as my time being an apprentice for an IT-firm. My interest lies in Virtual / Augmented Reality, Artifical Intelligence, distributed ledger technology and everything Open-Source
+<div align="center"><h1>Greetings!</h1>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">My name is Henrik. I am a bachelor graduate in information technology from <a href="https://www.uia.no/en">the university of Agder </a>. My bachelor thesis was written for <a href="https://atlas.co/"> Atlas </a>. Currently I am working full-time for a company in the energy industry. I have lot of experience with technology and work methodology from both my time as a student as well as my time being an apprentice for an IT-firm. My interest lies in Virtual / Augmented Reality, Artifical Intelligence, distributed ledger technology and everything Open-Source
 
-<h2>Work Account</h2>
-	<a href="https://github.com/LarsHenrikRaakil"><img src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
-<h2>Contact</h2>
+<h2>Contact and Accounts </h2>
 	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-	<a href="mailto:henrik.raakil@outlook.com"><img src="https://img.shields.io/badge/-Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="mailto:henrik.raakil@outlook.com"><img src="https://img.shields.io/badge/-Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+ 	<a href="https://github.com/LarsHenrikRaakil"><img src="https://img.shields.io/badge/Work Account-20B2AA?style=for-the-badge&logo=github&logoColor=white"></a>
 	
 <h2>Languages, frameworks and libraries<h2/>
 	<a href= https://www.python.org/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
@@ -24,9 +23,8 @@
 	<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://img.shields.io/badge/Blazor-39477F?style=for-the-badge&logo=Blazor&logoColor=white"></a>
 	
-	
 <h2>Tools<h2/>
-	<a href="https://qgis.org/en/site/"><img src="https://img.shields.io/badge/qgis-3.34_prizren-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
+	<a href="https://qgis.org/en/site/"><img src="https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
 	<a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 	<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 	<a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
@@ -39,10 +37,11 @@
 	<a href="https://www.sublimetext.com/docs/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
 	<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-0e606b?style=for-the-badge&logo=powershell&logoColor=white"></a>
 	<a href="swagger.io"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"></a>
+	<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 
-<h2>Page visits<div align="center">
+<h3>Page visits<div align="center">
 	<p></p>
  <img src="https://profile-counter.glitch.me/HenrikRaakil/count.svg?"  />
-</div></h2>
+</div></h3>
 	
 <!-- You found the secret message! Have a cookie🍪 -->
