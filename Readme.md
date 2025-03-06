@@ -39,9 +39,13 @@
 	<a href="swagger.io"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"></a>
 	<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 
-<h3>Page visits<div align="center">
+<h3>Page Stats<div align="center">
 	<p></p>
- <img src="https://profile-counter.glitch.me/HenrikRaakil/count.svg?"  />
-</div></h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrikraakil&theme=onedark" alt="henrikraakil" /></a>
+	<p></p>
+<img src="https://profile-counter.glitch.me/HenrikRaakil/count.svg?"  />
+</div>
+
 	
 <!-- You found the secret message! Have a cookie🍪 -->
