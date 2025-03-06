@@ -10,7 +10,7 @@
 	<h3>Languages and frameworks</h3>
 		<a href= "https://www.python.org/"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 		<a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js"></a>
-		<a href="https://nodejs.org/en"> <img src="https://img.shields.io/badge/next.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"</a>
+		<a href="https://nodejs.org/en"> <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"</a>
 		<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://img.shields.io/badge/C%23-7D4698?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 		<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-Java-F05032?&style=for-the-badge&logo=coffeescript&logoColor=white"></a>
 		<a href="https://go.dev/doc/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
@@ -24,15 +24,15 @@
 		<a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 		<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 		<a href="https://mariadb.com/kb/en/documentation/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
-		<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-0e606b?style=for-the-badge&logo=powershell&logoColor=white"></a>
+		<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-0e606b?style=for-the-badge&logo=termius&logoColor=white"></a>
 		<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://img.shields.io/badge/Blazor-39477F?style=for-the-badge&logo=Blazor&logoColor=white"></a>
 	<h3>Tools</h3>
+		<a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=accenture&logoColor=white"></a>
+		<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=accenture&logoColor=white"></a>
 		<a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
     		<a href="https://qgis.org/en/site/"><img src="https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
-		<a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 		<a href="https://www.vim.org/docs.php"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
-		<a href="swagger.io"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"></a>
-		<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+		<a href="swagger.io"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"></a>
 		<a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
 		<a href="https://www.jetbrains.com/help/idea/getting-started.html"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 		<a href="https://www.vim.org/docs.php"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
