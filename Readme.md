@@ -45,7 +45,5 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrikraakil&theme=onedark" alt="henrikraakil" /></a>
 	<p></p>
-<img src="https://profile-counter.glitch.me/HenrikRaakil/count.svg?"  /></div>
-
 	
 <!-- You found the secret message! Have a cookie🍪 -->
