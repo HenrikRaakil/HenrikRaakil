@@ -1,11 +1,10 @@
 <div align="center"><h1>Greetings!</h1>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">My name is Henrik. I have a bachelor in information technology from <a href="https://www.uia.no/en">The University of Agder </a>. My bachelor thesis was written for <a href="https://atlas.co/"> Atlas </a>. Currently I am working on my masters at <a href="https://www.ntnu.no/"> The Norwegian University of Science and Technology. </a> I have lot of experience with technology and work methodology from both my time as a student as well as apprenticeship within an IT-firm and my previous job as an IT-consultant in the energy industry. My interest lies in aerodynamics and rocketry, Artifical Intelligence, and everything Open-Source.
 
-<h2>Contact and Accounts </h2>
+<h2>Contact</h2>
 	<a href="https://www.linkedin.com/in/lars-henrik-raakil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 	<a href="mailto:henrik.raakil@outlook.com"><img src="https://img.shields.io/badge/-Mail-003E54?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
- 	<a href="https://github.com/LarsHenrikRaakil"><img src="https://img.shields.io/badge/Work Account-20B2AA?style=for-the-badge&logo=github&logoColor=white"></a>
-	
+
 <div><h2>Portfolio<h3/>
 	<h3>Languages and frameworks</h3>
 		<a href= "https://www.python.org/"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
